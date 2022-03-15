@@ -1,0 +1,146 @@
+[
+  {
+    "name": "France",
+    "city": "Paris",
+    "image": "france",
+    "description": "France, the largest country in Western Europe, has long been a gateway between the continent's northern and southern regions (National Geographic).",
+    "flag": "FranceFlag",
+    "places": [
+      {
+        "site": "The Louvre Museum",
+        "sitedescription": "The Louvre is the world's largest museum and houses one of the most impressive art collections in history (LiveScience)."
+      },
+      {
+        "site": "The Eiffel Tower",
+        "sitedescription": "The Eiffel Tower is 1,063 feet (324 meters) tall, including the antenna at the top. Without the antenna, it is 984 feet (300 m) (LiveScience)."
+      },
+      {
+        "site": "Seine River",
+        "sitedescription": "Seine River, river of France, after the Loire its longest. It rises 18 miles (30 kilometres) northwest of Dijon and flows in a northwesterly direction through Paris before emptying into the English Channel at Le Havre (Brittanica)."
+      }
+    ],
+    "currency": "Euro",
+    "language": "French",
+    "population": "67.39 million"
+  },
+  {
+    "name": "Japan",
+    "city": "Tokyo",
+    "image": "japan",
+    "description": "Japan is an archipelago, or string of islands, on the eastern edge of Asia. There are four main islands: Hokkaido, Honshu, Shikoku, and Kyushu (National Geographic).",
+    "flag": "JapanFlag",
+    "places": [
+      {
+        "site": "Mount Fuji",
+        "sitedescription": "Mount Fuji is a composite cone, or stratovolcano. Composite cones, formed by violent eruptions, have layers of rock, ash, and lava. Mount Fuji is a symbol of Japan (National Geographic)."
+      },
+      {
+        "site": "Imperial Tokyo",
+        "sitedescription": "The current Imperial Palace (皇居, Kōkyo) is located on the former site of Edo Castle, a large park area surrounded by moats and massive stone walls in the center of Tokyo, a short walk from Tokyo Station. It is the residence of Japan's Imperial Family (Japan Guide)."
+      },
+      {
+        "site": "Hiroshima Peace Memorial Park",
+        "sitedescription": "The Hiroshima Peace Memorial (Genbaku Dome) is the only structure left standing near the hypocenter of the first atomic bomb which exploded on 6 August 1945, and it remains in the condition right after the explosion (UNESCO)."
+      }
+    ],
+    "currency": "Yen",
+    "language": "Japanese",
+    "population": "125.8 million"
+  },
+  {
+    "name": "Italy",
+    "city": "Rome",
+    "image": "italy",
+    "description": "Italy, country of south-central Europe, occupying a peninsula that juts deep into the Mediterranean Sea. Italy comprises some of the most varied and scenic landscapes on Earth and is often described as a country shaped like a boot (Britannica).",
+    "flag": "ItalyFlag",
+    "places": [
+      {
+        "site": "Roman Colosseum",
+        "sitedescription": "The Colosseum is an amphitheatre built in Rome under the Flavian emperors of the Roman Empire. It is also called the Flavian Amphitheatre. It is an elliptical structure made of stone, concrete, and tuff, and it stands four stories tall at its highest point (Britannica)."
+      },
+      {
+        "site": "Trevi Fountain",
+        "sitedescription": "The immense fountain stands some 85 feet (26 metres) high and is approximately 160 feet (49 metres) wide. At its centre is Pietro Bracci's statue of Oceanus, who stands atop a chariot pulled by sea horses and is accompanied by tritons (Brittanica)."
+      },
+      {
+        "site": "Grand Canal",
+        "sitedescription": "Grand Canal, Italian Canale Grande, main waterway of Venice, Italy, following a natural channel that traces a reverse-S course from San Marco Basilica to Santa Chiara Church and divides the city into two parts (Brittanica)."
+      }
+    ],
+    "currency": "Euro",
+    "language": "Italian",
+    "population": "59.55 million"
+  },
+  {
+    "name": "Brazil",
+    "city": "Brasília",
+    "image": "brazil",
+    "description": "Brazil is the largest country in South America and the fifth largest nation in the world. It forms an enormous triangle on the eastern side of the continent with a 4,500-mile (7,400-kilometer) coastline along the Atlantic Ocean (Britannica).",
+    "flag": "BrazilFlag",
+    "places": [
+      {
+        "site": "Cristo Redentor and Corcovado",
+        "sitedescription": "Christ the Redeemer, Portuguese Cristo Redentor, colossal statue of Jesus Christ at the summit of Mount Corcovado, Rio de Janeiro, southeastern Brazil. Celebrated in traditional and popular songs, Corcovado towers over Rio de Janeiro, Brazil’s principal port city (Britannica)."
+      },
+      {
+        "site": "Iguaçu Falls",
+        "sitedescription": "Iguaçu Falls, “an ocean plunging into an abyss” on the border between Argentina and Brazil. Among the many islands along the falls, the most notable is Isla Grande San Martín, which is situated downstream from the Garganta do Diabo (on the Argentine side) (Brittanica)."
+      },
+      {
+        "site": "Sugar Loaf",
+        "sitedescription": "Sugar Loaf, Portuguese Pão de Açúcar, landmark peak overlooking Rio de Janeiro and the entrance of Guanabara Bay, in southeastern Brazil. Named for its shape, the conical, granitic peak (1,296 feet [395 metres]) lies at the end of a short range between Rio de Janeiro and the Atlantic Ocean (Brittanica)."
+      }
+    ],
+    "currency": "Real",
+    "language": "Portuguese",
+    "population": "212.6 million"
+  },
+  {
+    "name": "United Kingdom",
+    "city": "London",
+    "image": "uk",
+    "description": "United Kingdom, island country located off the northwestern coast of mainland Europe. The United Kingdom comprises the whole of the island of Great Britain—which contains England, Wales, and Scotland—as well as the northern portion of the island of Ireland (Britannica).",
+    "flag": "UKFlag",
+    "places": [
+      {
+        "site": "London Eye",
+        "sitedescription": "London Eye, formerly Millennium Wheel, revolving observation wheel, or Ferris wheel, in London, on the South Bank of the River Thames in the borough of Lambeth. It is an overall height of 443 feet (135 metres) (Britannica)."
+      },
+      {
+        "site": "Buckingham Palace",
+        "sitedescription": "Buckingham Palace, palace and London residence of the British sovereign. It is situated within the borough of Westminster (Brittanica)."
+      },
+      {
+        "site": "Big Ben",
+        "sitedescription": "Big Ben is a tower clock known for its accuracy and for its massive hour bell. Strictly speaking, the name refers only to the bell, which weighs 15.1 tons (13.7 metric tons), but it is commonly associated with the whole clock tower at the northern end of the Houses of Parliament, in the London borough of Westminster (Brittanica)."
+      }
+    ],
+    "currency": "Pound",
+    "language": "English",
+    "population": "67.22 million"
+  },
+  {
+    "name": "United Arab Emirates",
+    "city": "Dubai",
+    "image": "uae",
+    "description": "United Arab Emirates, federation of seven emirates along the eastern coast of the Arabian Peninsula. The largest of these emirates, Abu Dhabi (Abū Ẓaby), which comprises more than three-fourths of the federation’s total land area, is the centre of its oil industry and borders Saudi Arabia on the federation’s southern and eastern borders (Britannica).",
+    "flag": "UAEFlag",
+    "places": [
+      {
+        "site": "Burj Khalifa",
+        "sitedescription": "Burj Khalifa, Khalifa also spelled Khalīfah, mixed-use skyscraper in Dubai, United Arab Emirates, that is the world’s tallest building, according to all three of the main criteria by which such buildings are judged (Britannica)."
+      },
+      {
+        "site": "Al-Hajar",
+        "sitedescription": "Al-Ḥajar, mountain chain in northern Oman. With its steeper slopes to seaward, it parallels the coast of the Gulf of Oman and stretches in an arc southeastward from the Musandam Peninsula almost to Raʾs (cape) Al-Ḥadd on the extreme northeastern tip of the Arabian Peninsula (Brittanica)."
+      },
+      {
+        "site": "Sheikh Zayed Grand Mosque",
+        "sitedescription": "The Sheikh Zayed Grand Mosque is one the world's largest mosques and a massive architectural work of art that intentionally blends different Islamic architectural schools. It features 82 domes, more than 1,000 columns, 24-carat-gold gilded chandeliers and the world's largest hand-knotted carpet (Abu Dhabi Culture)."
+      }
+    ],
+    "currency": "Dirham",
+    "language": "Arabic",
+    "population": "9,279,000"
+  }
+]
